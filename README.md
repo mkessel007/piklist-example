@@ -1,4 +1,4 @@
 piklist-example
 ===============
 
-Example plugin ustiliaing the piklist framework
+Example plugin utilizing the piklist framework
